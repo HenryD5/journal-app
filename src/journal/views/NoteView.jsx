@@ -13,7 +13,7 @@ export const NoteView = () => {
     >
       <Grid item>
         <Typography fontSize={39} fontWeight="light">
-          25 de Junio, 2023
+          25 de Junio, 2023 ...
         </Typography>
       </Grid>
       <Grid item>
